@@ -54,7 +54,12 @@
 - **Log via Webhook:** Registra a inicialização do script via webhook do Discord.
 
 ---
+## Video 
 
+** Video De Demonstração:**
+https://streamable.com/yw3igi
+
+---
 ## Créditos 💫
 
 **Criado por:** :: lalaio1 ::
